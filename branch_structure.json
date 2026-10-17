@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-846-fix-web-make-the-availability-badge-accessible",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-846-fix-web-make-the-availability-badge-accessible": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-846-fix-web-make-the-availability-badge-accessible",
+    "origin"
+  ]
+}
